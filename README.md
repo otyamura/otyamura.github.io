@@ -1,5 +1,4 @@
 # This is My Portfolio!
 
-WELCOME
 
-[unchi](https://otyamura.github.io)
+[WELCOME](https://otyamura.github.io)

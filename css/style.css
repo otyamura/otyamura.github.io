@@ -98,10 +98,10 @@
 
 .contact {
   background-color: rgb(66, 65, 65);
-  margin-top: 93%;
+  margin-top: 150%;
   text-align: center;
   position: relative;
-  height: 300px;
+  height: 250px;
 }
 
 .contact h2 {
@@ -115,6 +115,8 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
 .contact img {
+  display: inline-block;
   background-color: rgb(66, 65, 65);
 }
